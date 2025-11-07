@@ -1,0 +1,22 @@
+[
+  {
+    "id": "n1",
+    "customer_id": "C100",
+    "text": "Customer reported intermittent billing failures last month."
+  },
+  {
+    "id": "n2",
+    "customer_id": "C101",
+    "text": "Requested feature A during onboarding; engagement low afterward."
+  },
+  {
+    "id": "n3",
+    "customer_id": "C102",
+    "text": "Multiple support tickets; escalated to Tier 2."
+  },
+  {
+    "id": "n4",
+    "customer_id": "C106",
+    "text": "Customer reduced logins in the past month, reported minor feature issues."
+  }
+]

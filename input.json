@@ -1,0 +1,20 @@
+[
+  {
+    "key": "user_csv",
+    "label": "User Activity CSV",
+    "type": "file",
+    "required": true
+  },
+  {
+    "key": "customer_id",
+    "label": "Customer ID (optional)",
+    "type": "string",
+    "required": false
+  },
+  {
+    "key": "window_days",
+    "label": "Window length days",
+    "type": "number",
+    "required": false
+  }
+]

@@ -1,0 +1,15 @@
+fastapi[all]
+uvicorn
+pandas
+numpy
+scikit-learn
+lightgbm
+shap
+langchain
+sentence-transformers
+faiss-cpu
+python-dotenv
+streamlit
+pydantic
+joblib
+requests

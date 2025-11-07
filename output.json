@@ -1,0 +1,27 @@
+[
+  {
+    "key": "customer_id",
+    "label": "Customer ID"
+  },
+  {
+    "key": "churn_prob",
+    "label": "Churn Probability",
+    "types": [
+      "number"
+    ]
+  },
+  {
+    "key": "explanation",
+    "label": "Top Drivers",
+    "types": [
+      "string"
+    ]
+  },
+  {
+    "key": "history",
+    "label": "Relevant History",
+    "types": [
+      "string"
+    ]
+  }
+]
