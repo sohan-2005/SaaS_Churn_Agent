@@ -1,4 +1,4 @@
-# SaaS Churn Predictor + Explainer Agent (Hackathon Starter)
+# SaaS Churn Predictor + Explainer Agent
 
 Files:
 - main.py          : FastAPI backend with endpoints /upload, /predict, /explain/{customer_id}
